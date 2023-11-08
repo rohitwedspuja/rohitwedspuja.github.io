@@ -194,7 +194,7 @@ $(document).ready(function () {
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Jan 25, 2024 00:00'),
+            end: new Date('Jan 22, 2024 00:00'),
 
             // Event Address
             address: 'Wedding @PremchandBhavan and Reception @JagatdalGhatPark',
