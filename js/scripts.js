@@ -187,17 +187,17 @@ $(document).ready(function () {
             title: "Rohit and Puja's Wedding",
 
             // Event start date
-            start: new Date('Jan 21, 2024 10:00'),
+            start: new Date('Jan 21, 2024 18:00'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Jan 22, 2024 00:00'),
+            end: new Date('Jan 21, 2024 11:59'),
 
             // Event Address
-            address: 'Wedding @PremchandBhavan and Reception @JagatdalGhatPark',
+            address: 'Sampriti Bhava, Bhatpara, 743126',
 
             // Event Description
             description: "We can't wait to see you on our big day. For any queries or issues, please contact Mr. Suraj Shaw at +91 7449553460."
